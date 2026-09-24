@@ -27,8 +27,6 @@
 
 ## 预览
 
-> 把运行截图放到 `screenshots/` 目录，替换下面的路径即可。
-
 | V1 · Apple 毛玻璃 | V2 · 瑞士精密仪表 |
 |---|---|
 | ![v1](screenshots/v1_apple.png) | ![v2](screenshots/v2_precision.png) |
@@ -37,11 +35,9 @@
 |---|---|
 | ![v2-1](screenshots/v2-1_precision_left.png) | ![v3](screenshots/v3_webflow.png) |
 
-| V3-1 · Webflow（值在左侧） | 实时数据演示 |
-|---|---|
-| ![v3-1](screenshots/v3-1_webflow_left.png) | ![live](screenshots/live_demo.gif) |
-
----
+| V3-1 · Webflow（值在左侧） |
+|---|
+| ![v3-1](screenshots/v3-1_webflow_left.png) |
 
 ## 版本说明
 
