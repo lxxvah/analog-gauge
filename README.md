@@ -27,17 +27,39 @@
 
 ## 预览
 
-| V1 · Apple 毛玻璃 | V2 · 瑞士精密仪表 |
-|---|---|
-| ![v1](screenshots/v1_apple.png) | ![v2](screenshots/v2_precision.png) |
+### V1 · Apple 毛玻璃
 
-| V2-1 · 瑞士精密（值在左侧） | V3 · Webflow |
+| Light | Dark |
 |---|---|
-| ![v2-1](screenshots/v2-1_precision_left.png) | ![v3](screenshots/v3_webflow.png) |
+| [![V1 Light](screenshots/v1_apple_light.png)](1/) | [![V1 Dark](screenshots/v1_apple_dark.png)](1/) |
 
-| V3-1 · Webflow（值在左侧） |
-|---|
-| ![v3-1](screenshots/v3-1_webflow_left.png) |
+金属外圈 · 径向渐晕 · 毛玻璃反光 · 扁平指针
+
+### V2 · 瑞士精密仪表
+
+[![V2](screenshots/v2_precision.png)](2/)
+
+Braun / Dieter Rams 风格 · 锥形指针 + 尾部配重 + 盘面投影 · 三级刻度 · 磨砂盘面
+
+### V2-1 · 瑞士精密 + 值位置可调
+
+[![V2-1](screenshots/v2-1_precision_left.png)](2-1/)
+
+在 V2 基础上支持 `value_position="left"` —— 值画在表盘内部左侧空白弧区
+
+### V3 · Webflow
+
+[![V3](screenshots/v3_webflow.png)](3/)
+
+白盘 + 1px hairline 描边 · layered drop-shadow · Inter 字体 · 扁平指针
+
+### V3-1 · Webflow + 值位置可调
+
+[![V3-1](screenshots/v3-1_webflow_left.png)](3-1/)
+
+在 V3 基础上支持 `value_position="left"`
+
+---
 
 ## 版本说明
 
